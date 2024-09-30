@@ -136,3 +136,30 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+# Resultado terminal
+
+```
+
+Datena (0) esta pensando.
+Marçal (1) esta pensando.
+Boulos (2) esta pensando.
+Nunes (3) esta pensando.
+Tabata (4) esta pensando.
+Tabata (4) esta tentando pegar os garfos.
+Tabata (4) pegou e esta comendo.
+Marçal (1) esta tentando pegar os garfos.
+Marçal (1) pegou e esta comendo.
+Datena (0) esta tentando pegar os garfos.
+Boulos (2) esta tentando pegar os garfos.
+Tabata (4) parou de comer.
+Tabata (4) esta pensando.
+Nunes (3) esta tentando pegar os garfos.
+Nunes (3) pegou e esta comendo.
+Marçal (1) parou de comer.
+Marçal (1) esta pensando.
+Datena (0) pegou e esta comendo.
+Datena (0) parou de comer.
+Datena (0) esta pensando.
+
+```
